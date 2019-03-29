@@ -1,2 +1,2 @@
 # MyFirstRepository
-This is a demo branch
+This is a demo repository
